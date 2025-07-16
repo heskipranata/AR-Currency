@@ -1,6 +1,6 @@
 # 💵 ARCurrency
 
-**ARCurrency** is an Augmented Reality (AR) application built using Unity and Vuforia Engine. It recognizes different world currencies and displays related 3D models and information in real time.
+**ARCurrency** is an Augmented Reality (AR) application built using Unity and Vuforia Engine. It recognizes different world currencies and displays related 3D models and information.
 
 ![Screenshot](https://imgur.com/S5nyQSQ.jpeg)
 
